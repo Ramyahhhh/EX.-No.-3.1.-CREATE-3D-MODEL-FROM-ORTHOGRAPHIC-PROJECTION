@@ -2,13 +2,14 @@
 ## DATE:
 
 ## AIM:
-To create a 3D model from given orthographic projection.
+To construct a 3D solid model of a Fork End component from the given 2D orthographic views (Front, Top, and Right views) using Autodesk Fusion 360.
 
 ## REQUIREMENTS:
-1. Autodesk fusion 360
-2. Windows 10
-3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
-4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
+• Software. Autodesk Fusion 360 (3D CAD/CAM modeling suite) with an active user account.
+• Operating System. Microsoft Windows 10 (64-bit) operating system.
+• Memory & Graphics. 16 GB RAM paired with integrated or dedicated graphics supporting 1 GB or more VRAM.
+• Internet Connectivity. A stable broadband connection with at least 2.5 Mbps download and 500 Kbps upload speeds for cloud synchronization.
+• Peripherals. A standard keyboard, a three-button scroll mouse, and a display monitor.
 
 ## PROCEDURE:
 1.	Open new file and then select sketch icon.
